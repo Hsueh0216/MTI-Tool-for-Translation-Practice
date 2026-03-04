@@ -19,6 +19,7 @@
 请确保已安装 Python 3.9 或更高版本。在终端中运行以下命令安装依赖：
 ```bash
 pip install -r requirements.txt
+```
 2. 运行程序
 Windows 用户：直接双击项目目录下的 start.bat 即可一键启动并自动打开浏览器。
 其他系统用户：在终端执行：
