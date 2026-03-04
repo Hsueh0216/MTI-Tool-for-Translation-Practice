@@ -20,11 +20,11 @@
 ```bash
 pip install -r requirements.txt
 ```
-2. 运行程序
+###2. 运行程序
 Windows 用户：直接双击项目目录下的 start.bat 即可一键启动并自动打开浏览器。
 其他系统用户：在终端执行：
 streamlit run app.py
-📚 使用指南
+## 📚 使用指南
 在左侧边栏配置您的 API Key（推荐使用 DeepSeek 或 Gemini）。
 
 （可选）上传您的自定义 Excel 术语库，或勾选“智能抽取术语库”。
@@ -32,5 +32,5 @@ streamlit run app.py
 上传需处理的 PDF/DOCX 文献，点击“开始处理”。
 
 在页面下方“资产面板”随时下载清洗好的原文、双语对照表及实践报告。
-🤝 贡献与支持
+## 🤝 贡献与支持
 如果你觉得这个工具拯救了你的发际线，请点一个 ⭐ Star 支持一下！欢迎提交 Issue 或 Pull Request。
