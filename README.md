@@ -8,10 +8,10 @@
 
 ## ✨ 核心特性 (Features)
 
-- 📄 **结构化清洗 (AI Parsing)**：利用大模型彻底消除 PDF 提取带来的硬回车与乱码，完美还原自然段落。
-- 🧠 **术语自动抽取与强注入 (Termbase Injection)**：翻译前自动抽取 30-50 个专业名词生成 Excel 术语库；翻译中强制注入术语，实现精准翻译。
-- 📝 **万字报告生成引擎 (Agentic Report Generation)**：基于 Map-Reduce 架构，分四轮自动撰写包含“长难句学理分析”的万字 Markdown/Word 翻译实践报告初稿。
-- 🛡️ **极细粒度状态机 (Robustness)**：内置断点续传机制与 API 防崩限流策略。支持 DeepSeek、OpenAI、Gemini。
+- 📄 **结构清洗 (AI Parsing)**：利用大模型彻底消除 PDF 提取带来的硬回车与乱码，完美还原自然段落。
+- 🧠 **术语自动抽取与注入 (Termbase Injection)**：翻译前自动抽取 30-50 个专业名词生成 Excel 术语库；翻译中强制注入术语，实现精准翻译。
+- 📝 **翻译实践报告生成 (Agentic Report Generation)**：基于 Map-Reduce 架构，分四轮自动撰写包含“长难句学理分析”的万字 Markdown/Word 翻译实践报告初稿。
+- 🛡️ **断点继续和稳定性 (Robustness)**：内置断点续传机制与 API 防崩限流策略。支持 DeepSeek、OpenAI、Gemini。
 
 ## 🚀 极速启动 (Quick Start)
 
